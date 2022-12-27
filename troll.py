@@ -1,8 +1,10 @@
+
 import os
 import smtplib
 from email.message import EmailMessage
 from dotenv import load_dotenv
 from random import choice
+# pip install pyleetspeak
 _ = load_dotenv()
 
 
